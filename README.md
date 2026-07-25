@@ -106,7 +106,7 @@ ON m.Anime_id = a.Anime_id;
 - Perform data analysis using SQL
 - Build a portfolio project for data analyst roles
 
----
+--
 
 # Author
 
